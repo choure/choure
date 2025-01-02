@@ -54,9 +54,9 @@ Welcome to my GitHub profile! I'm **Mohit Choure**, a passionate web developer w
 - **Tech Stack:** Next.js, TailwindCSS  
 - **Features:** Interactive UI, optimized for performance, and SEO-friendly.
 
-### 🚀 [Blog CMS](https://github.com/choure/blog-cms)  
-- **Tech Stack:** React.js, Node.js, PostgreSQL  
-- **Features:** CRUD operations, admin dashboard, and markdown editor.
+### 🚀 [Codeial](https://github.com/choure/codeial)  
+- **Tech Stack:** Node.js, Express.js, EJS, MongoDB  
+- **Features:** CRUD operations, user profile, admin dashboard and authentication.
 
 ---
 

@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm **Mohit Choure**  
 ### 🚀 Web Developer | 💻 Tech Enthusiast | 🎨 Problem Solver  
 
-![Cover Image](https://res.cloudinary.com/dx2ti6qjb/image/upload/c_fill,w_1792,h_1024/v1735803826/mohit-gui-github-image_n04aro_yopqx1.webp)
+![Cover Image](https://user-images.githubusercontent.com/107936455/203690603-726e50ce-2cf6-4b62-82ee-d51ed9100f05.gif)
 
 ---
 
@@ -19,19 +19,13 @@ Welcome to my GitHub profile! I'm **Mohit Choure**, a passionate web developer w
 ## 💻 Tech Stack  
 
 ### **Languages**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ### **Front-End**  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 ### **Back-End**  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
 
 ### **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
@@ -40,8 +34,7 @@ Welcome to my GitHub profile! I'm **Mohit Choure**, a passionate web developer w
 
 ## 📈 GitHub Stats  
 
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=choure&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choure&layout=compact&theme=radical)
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=choure&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=choure&layout=compact&theme=radical)
 
 ---
 
@@ -64,8 +57,8 @@ Welcome to my GitHub profile! I'm **Mohit Choure**, a passionate web developer w
 ## 📬 Connect with Me  
 
 - 🔗 **GitHub:** [github.com/choure](https://github.com/choure)  
-- 🔗 **LinkedIn:** [linkedin.com/in/mohit-choure](https://linkedin.com/in/mohit-choure)  
-- 📧 **Email:** [mohit.choure@example.com](mailto:mohit.choure@example.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/mohit-choure](https://www.linkedin.com/in/mohit-choure-1820b816a/)  
+- 📧 **Email:** [mohitchoure1234@gmail.com](mailto:mohitchoure1234@gmail.com)  
 
 ---
 

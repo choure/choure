@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm **Mohit Choure**, a passionate web developer w
 ---
 
 ### 🚀 Deployment :
-- ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)  ![Render](https://img.shields.io/badge/Render-%23F24E1E.svg?style=for-the-badge&logo=render&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)  ![Render](https://img.shields.io/badge/Render-%23F24E1E.svg?style=for-the-badge&logo=render&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔧 Version Control :
 - ![Git](https://img.shields.io/badge/Git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-%23004788.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
